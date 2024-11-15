@@ -1,7 +1,10 @@
 ## 🎓 โหลดเอกสารและภาพประกอบการสอบ
 - [ภาพประกอบการสอน](https://mega.nz/file/JogzmBSR#5EEAj2e2gccr4g9yZ7dJzE1nfozUXarYltj8Iud16AA)
-- [เอกสารประกอบการสอน](https://github.com/kongruksiamza/programmer-class-room)
 
+## 🚀 Guideline & Documents
+- แนวทางการเรียนรู้การพัฒนาเว็บแอพพลิเคชั่น (Web Development) [อ่านบทความ](https://github.com/kongruksiamza/web-guideline)
+- เอกสารสอนเขียนโปรแกรมฟรี (.pdf) [ดาวน์โหลด](https://github.com/kongruksiamza/ebook-for-education)
+  
 ## 📢 ติดตามข่าวสารอื่นๆของเราได้ที่
 <div id="badges">
   <a href="https://www.facebook.com/KongRuksiamTutorial" target="_blank">
